@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_baseline_waves_24"
+        android:title="AM MODULATION" />
+
+    <item
+        android:id="@+id/navigation_FM"
+        android:icon="@drawable/ic_baseline_graphic_eq_24"
+        android:title="FM MODULATION" />
+
+
+</menu>
